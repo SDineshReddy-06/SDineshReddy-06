@@ -1,6 +1,6 @@
 ### Hi, I'm Dinesh 👋
 
-Developer based in Hyderabad · B.Tech CSE @ NIAT (2024–2028)
+Developer based in Hyderabad · B.Sc CSE @ NIAT (2024–2028)
 
 I build full-stack apps and backend systems — chatbots, CRUD APIs, and real-world web apps.
 
